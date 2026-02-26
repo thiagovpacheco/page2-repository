@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+burger-app/node_modules/
+
+# Build output
+dist/
+burger-app/dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Cache
+.cache/
