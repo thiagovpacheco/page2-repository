@@ -19,7 +19,7 @@ const Newsletter = () => {
 
                 <div className="relative z-10 w-full max-w-2xl">
                     <h2 className="text-4xl md:text-5xl lg:text-6xl font-sans font-bold text-[#1A1A1A] mb-4">
-                        Ganhe 20% de Desconto<br />no Primeiro Pedido
+                        Ganhe 20% de<br />Desconto<br />no Primeiro Pedido
                     </h2>
                     <p className="text-[#1A1A1A]/80 font-medium text-lg mb-10">
                         Junte-se ao clube para descontos exclusivos, itens secretos e novidades frescas.
