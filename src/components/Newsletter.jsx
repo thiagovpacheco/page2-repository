@@ -17,9 +17,11 @@ const Newsletter = () => {
                     <rect x="20" y="20" width="60" height="60" rx="10" />
                 </svg>
 
-                <div className="relative z-10 w-full max-w-2xl">
+                <div className="relative z-10 w-full max-w-2xl text-left">
                     <h2 className="text-4xl md:text-5xl lg:text-6xl font-sans font-bold text-[#1A1A1A] mb-4">
-                        Ganhe 20% de<br />Desconto<br />no Primeiro Pedido
+                        Ganhe 20%<br />
+                        de Desconto<br />
+                        no Primeiro Pedido
                     </h2>
                     <p className="text-[#1A1A1A]/80 font-medium text-lg mb-10">
                         Junte-se ao clube para descontos exclusivos, itens secretos e novidades frescas.
